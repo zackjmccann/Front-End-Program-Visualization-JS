@@ -1,2 +1,2 @@
-# Javascript Challege
-### Authored by _Zachary J. McCann_
+#### Front end visualization for a data extracting program
+##### Visualization built out in Javascript
